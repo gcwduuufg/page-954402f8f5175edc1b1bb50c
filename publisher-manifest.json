@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c7fbed6c99c7f12e1e37e323",
+  "owner": "gcwduuufg",
+  "repo": "page-954402f8f5175edc1b1bb50c",
+  "title": "99吧",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "954402f8f5175edc1b1bb50c",
+      "a": "99吧",
+      "b": "机场官网线路发布页",
+      "entity": "99吧",
+      "brand": "99吧",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "78130d06a91df9c5dab441cf299ed4bd6e9ded68f914d0444fbc6ca6c68bb88d",
+      "content": {
+        "primary_entity": "99吧",
+        "keyword1": "99吧",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，99吧提供基础版、旗舰版和团队版三档订阅，月付价格分别为 ¥15、¥35 和 ¥85，年付可省两个月费用。基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用；旗舰版每月 300GB、支持 5 台设备，并配有 IPLC 专线优化游戏加速；团队版每月 1000GB、支持 20 台设备，适合小型团队或家庭多设备环境。所有套餐均兼容主流客户端，订阅配置只需导入链接即可完成。",
+          "AI_HERO_SUBTITLE": "多设备订阅与节点选择",
+          "AI_HERO_INTRO": "99吧面向需要海外网络加速的用户，提供按月或按年计费的订阅方案，覆盖手机、电脑和路由器等常见设备。根据日常流量和同时在线设备数量，可以在基础版、旗舰版与团队版之间选择，并按照客户端说明完成订阅配置。",
+          "AI_VISUAL_TITLE": "99吧订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持多设备在线使用",
+          "AI_HIGHLIGHT_3": "订阅导入步骤清晰简洁",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "围绕流量、设备数量和线路类型选择订阅，匹配自己的使用场景。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数选择",
+          "AI_FEATURE_TEXT_2": "3 台、5 台或 20 台同时在线，根据手机电脑数量决定档位。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付方案相当于节省两个月费用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅链接即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体和游戏，团队版适合多人大流量。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "三个步骤完成从选择到使用的过程。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，在基础版、旗舰版或团队版中确定订阅。",
+          "AI_STEP_TITLE_2": "打开客户端",
+          "AI_STEP_TEXT_2": "在手机或电脑上安装适配当前系统的客户端并进入订阅管理。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照所用客户端的导入说明，添加订阅链接并更新节点列表。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "99吧的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "基础版适合手机和笔记本轻度使用，旗舰版适合流媒体和游戏，团队版适合多设备大流量场景。可根据每月流量需求和同时在线设备数量决定。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出数量时需要升级套餐或调整使用设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于节省两个月费用。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，适合长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "获取订阅链接后，在对应客户端中添加订阅地址，更新节点列表即可。不同客户端的导入位置不同，可参照客户端说明操作。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备和系统？",
+          "AI_FAQ_ANSWER_5": "可根据手机、电脑等设备系统选择对应客户端，导入订阅后使用。具体兼容性以实际客户端版本为准。",
+          "AI_CLOSING_TITLE": "选择适合的订阅",
+          "AI_CLOSING_TEXT": "按流量和设备数量选定套餐，导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rayonmedia.cn",
+    "host": "rayonmedia.cn"
+  },
+  "file_hashes": {
+    "index.html": "51808e9720796dfe5bd2b27c65c114b7f4d4e0e75242fd0af539b650da142bab",
+    "sitemap.xml": "cd5af527bffd7bc9d2bc2a984479797839d8dfabd8a2e1ef9cb9c7d916eed085",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7817d589e8183b73628d4e165d7931e902e79616ae449f67739a781c400b3208",
+    "robots.txt": "bfd0d14f665f0413c798ac32f56cc1041a951f041c490214cdd4e261df50d4a0",
+    "7ec0e0c33af94f10cbefcddefbbb2840.txt": "7850d81edacfc39357056a7d4c05d758e693a0ea9f49bf9204ece0c715501e43"
+  },
+  "revision": "066cb04dcd6a0c2a5cd1aa0e4efcaca47855fbd28fd8933b714678b7c5f242f5"
+}
